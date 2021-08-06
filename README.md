@@ -237,4 +237,3 @@ $ git rebase --continue
     - PDF: https://progit-ja.github.io/
 - [LearnGitBranching](http://k.swd.cc/learnGitBranching-ja/): gitのブランチを手を動かしながら学べて便利！
 - [Gitによるバージョン管理](http://www.amazon.co.jp/dp/4274068641): Git道場の主催者の方々によって書かれていて、実際の開発現場での使われ方が載っていたはず
-
