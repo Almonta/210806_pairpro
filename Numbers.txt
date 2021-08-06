@@ -3,11 +3,11 @@
 4 hoge
 3 コンフリクトするのは怖い hoge
 5 hoge
-6 hoge
+6 卒業課題の処理が多いhoge
 7 hoge
-9 hoge
+9 データベースがすごいことになったhoge
 8 hoge
-10 hoge
+10 外部キーが沢山ありすぎて怖い・・・hoge
 11 hoge
 12 hoge
 13 hoge
